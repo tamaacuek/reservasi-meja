@@ -1,0 +1,25 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "tama-firebase-92199",
+          "appId": "1:219891135896:android:c5c33214b33f9e2fdde7ed",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "tama-firebase-92199",
+          "configurations": {
+            "android": "1:219891135896:android:c5c33214b33f9e2fdde7ed",
+            "ios": "1:219891135896:ios:6c8bb35e1193b489dde7ed",
+            "macos": "1:219891135896:ios:6c8bb35e1193b489dde7ed",
+            "web": "1:219891135896:web:baeac86500986a0fdde7ed",
+            "windows": "1:219891135896:web:245e77cf79c7bc05dde7ed"
+          }
+        }
+      }
+    }
+  }
+}

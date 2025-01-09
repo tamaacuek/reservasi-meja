@@ -1,0 +1,29 @@
+ {
+  "project_info": {
+    "project_number": "219891135896",
+    "project_id": "tama-firebase-92199",
+    "storage_bucket": "tama-firebase-92199.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219891135896:android:c5c33214b33f9e2fdde7ed",
+        "android_client_info": {
+          "package_name": "com.example.tama_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJOAW5qj9bPsPJ1l6i_5Q-rmyMQJM7roU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
